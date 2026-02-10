@@ -80,6 +80,7 @@ streamlit run app.py
 ```
 
 The app will open automatically in your browser.
+
 ---
 
 ## 📝 How It Works
@@ -102,6 +103,8 @@ The app will open automatically in your browser.
 
 5. Result is displayed instantly.
 
+--- 
+
 ## 📊 Model Information
 
 - Vectorizer: TF-IDF
@@ -113,6 +116,8 @@ The app will open automatically in your browser.
   - 1 → Positive
 
   - 0 → Negative
+ 
+--- 
 
 ## 📦 Requirements
 
@@ -126,21 +131,28 @@ Install using:
 ```bash
 pip install -r requirements.txt
 ```
+
+--- 
+
 ## 💡 Future Improvements
 
-Add confidence score
+- Add confidence score
 
-Support batch review upload
+- Support batch review upload
 
-Deploy on Streamlit Cloud
+- Deploy on Streamlit Cloud
 
-Add Neutral sentiment class
+- Add Neutral sentiment class
 
-Improve UI styling
+- Improve UI styling
+
+--- 
 
 ## 👨‍💻 Author
 
 Kesavapavan Gadde
+
+---
 
 ## ⭐ If you like this project
 
