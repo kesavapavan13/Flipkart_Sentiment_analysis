@@ -158,5 +158,3 @@ Kesavapavan Gadde
 
 Give it a ⭐ on GitHub and feel free to contribute!
 
-## 📂 Project Structure
-
